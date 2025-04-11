@@ -52,7 +52,7 @@ Projeto1-Blog/
 
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/seu-usuario/Projeto1-Blog.git
+   git clone https://georgelobato77.github.io/BlogNhobaDev/index.html
    ```
 
 2. **Abra o projeto no navegador**:
@@ -81,9 +81,9 @@ Projeto1-Blog/
 
 Se você tiver dúvidas ou sugestões, entre em contato:
 
-- **Email**: seuemail@exemplo.com
-- **LinkedIn**: [Seu Nome](https://www.linkedin.com/in/seu-perfil)
-- **GitHub**: [Seu Usuário](https://github.com/seu-usuario)
+- **Email**: george.lobato@gmail.com
+- **LinkedIn**: [George Alberto](https://www.linkedin.com/in/george-lima-3a43a2303/)
+- **GitHub**: [George Lima](https://github.com/georgelobato77)
 
 ---
 
